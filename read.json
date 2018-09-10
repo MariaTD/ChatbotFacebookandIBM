@@ -1,0 +1,78 @@
+{
+    "ObtenerCredito": "obtenerCredito",
+    "context": {},
+    "conversation_id": "ab6116a3-df7b-416d-a2c0-802258bfd10a",
+    "correoElectronico": "@gmail.com",
+    "monto": 1000000,
+    "monto1": 1000000,
+    "nombre": "Maria Jose",
+    "simuladorCredito": "inicioSimulador",
+    "system": {
+        "_node_output_map": {
+            "Bienvenido": {
+                "0": [
+                    0
+                ]
+            },
+            "En otras cosas": {
+                "0": [
+                    1
+                ]
+            },
+            "node_1_1535468187327": {
+                "0": [
+                    0
+                ]
+            },
+            "node_1_1536067215380": {
+                "0": [
+                    0
+                ]
+            },
+            "node_1_1536588722140": {
+                "0": [
+                    0
+                ]
+            },
+            "node_21_1536097110741": {
+                "0": [
+                    0
+                ]
+            },
+            "node_22_1536097266784": {
+                "0": [
+                    0
+                ]
+            },
+            "node_2_1535468466496": {
+                "0": [
+                    0
+                ]
+            },
+            "node_2_1536267743437": {
+                "0": [
+                    0
+                ]
+            },
+            "node_3_1535468699989": {
+                "0": [
+                    0
+                ]
+            },
+            "node_7_1536071102067": {
+                "0": [
+                    0
+                ]
+            }
+        },
+        "branch_exited": true,
+        "branch_exited_reason": "completed",
+        "dialog_request_counter": 287,
+        "dialog_stack": [
+            {
+                "dialog_node": "root"
+            }
+        ],
+        "dialog_turn_counter": 287
+    }
+}

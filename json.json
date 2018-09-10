@@ -1,0 +1,70 @@
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "2101373513522714",
+            "time": 1535557962842,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "1694849287304374"
+                    },
+                    "recipient": {
+                        "id": "2101373513522714"
+                    },
+                    "timestamp": 1535557918894,
+                    "message": {
+                        "mid": "B6onFcKyXkN70kljGGlLmmeK9PbXC9shG5JcR7pygGrIVqFgl7cfprC8Y0EUwRP3TKwr7WirAheNVWhTlh10Og",
+                        "seq": 29,
+                        "text": "asddf"
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+
+{
+    "intents":[
+        {
+            "intent": "InicioConversacion", 
+            "confidence": 1
+        }
+    ], 
+    "entities": [
+
+    ], 
+    "input": {
+            "text": "hola"
+    }, 
+    "output": {
+         "text": ["Hola. ¿Cómo puedo ayudarle?"], 
+            "nodes_visited": ["Bienvenido"], 
+            "log_messages": []
+            }, 
+                "context": {
+                    "conversation_id": "50ae1bf7-617c-4e02-b9dc-bd0be53c645b",
+                        "system": {
+                            "dialog_stack": 
+                            [
+                             {
+                                  "dialog_node": "root"
+                             }
+                            ],
+                            "dialog_turn_counter": 1, 
+                            "dialog_request_counter": 1, 
+                            "_node_output_map": {
+                                "Bienvenido": {
+                                     "0": [0]
+                                     }
+                             }, 
+                             "branch_exited": "True", 
+                             "branch_exited_reason": "completed"
+                        }
+                }
+}
+   
